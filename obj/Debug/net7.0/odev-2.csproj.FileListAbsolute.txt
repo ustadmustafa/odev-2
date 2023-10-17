@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\bin\Debug\net7.0\odev-2.exe
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\bin\Debug\net7.0\odev-2.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\bin\Debug\net7.0\odev-2.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\bin\Debug\net7.0\odev-2.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\bin\Debug\net7.0\odev-2.pdb
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\refint\odev-2.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.pdb
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\odev-2.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\odev-2\obj\Debug\net7.0\ref\odev-2.dll
